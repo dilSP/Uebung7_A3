@@ -6,5 +6,5 @@
 
 | Tables         | Are            | Cool    |
 | -------------- |:--------------:| -------:|
-|"blub"          | "blah"         | "mip"   |
+|“blub“          | “blah“         | “mip“   |
 | __Tea__        | __Coffee__      | __Beer__|
