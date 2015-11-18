@@ -7,4 +7,4 @@
 | Tables         | Are            | Cool    |
 | -------------- |:--------------:| -------:|
 |"blub"          | "blah"         | "mip"   |
-| __Tea__        | __Coffee_      | __Beer__|
+| __Tea__        | __Coffee__      | __Beer__|
